@@ -58,7 +58,7 @@ Em seguida, execute os comandos abaixo:
 git clone https://github.com/Juanzev/Minimal_API_Formula1.git
 
 # Entrar no diretório do projeto
-cd nome-da-pasta
+cd diretorio API formula1
 
 # Instalar as dependências
 npm install
